@@ -1,0 +1,148 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: black;
+  font-family: 'Poppins', sans-serif;
+}
+
+.tab-bar {
+  background-color: black;
+  font-family: 'Poppins', sans-serif;
+}
+
+.tab-link {
+  color: white;
+  text-decoration: none;
+}
+
+.tab-link.active {
+  color: grey;
+}
+
+.btn-warning {
+  background-color: rgb(247, 204, 64);
+  border-color: rgb(247, 204, 64);
+}
+
+.btn-warning:hover {
+  background-color: #ffcc00;
+  border-color: #ffcc00;
+}
+
+.footer {
+  background-color: black;
+  font-family: 'Poppins', sans-serif;
+}
+
+.company-info .company-name {
+  font-size: 1.2rem;
+}
+
+.logo {
+  height: 40px;
+}
+
+.social-icons a {
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  color: grey;
+}
+
+.text-white {
+  margin-left: 20px;
+}
+
+button {
+  margin-left: 20px;
+}
+
+.bodyhome {
+  background-color: rgb(15, 15, 15);
+  width: 1250px;
+  min-height: 100%;
+}
+
+.app-container {
+  background-color: rgb(15, 15, 15);
+}
+
+.Profile {
+  background-color: rgb(15, 15, 15);
+  
+  width: 1350px;
+  font-family: 'Poppins', sans-serif;
+  margin: 0 auto;
+}
+
+.custom-navbar {
+  width: 100%; /* Ensure full width */
+  background-color: rgb(15, 15, 15);
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+.custom-navbar .navbar-nav .nav-link,
+.custom-navbar .navbar-brand,
+.custom-navbar .dropdown-menu .dropdown-item {
+  color: white;
+}
+
+.custom-navbar .navbar-nav .nav-link.active {
+  color: rgb(248, 198, 89);
+}
+
+.custom-navbar .dropdown-menu {
+  background-color: rgb(43, 43, 43);
+}
+
+.custom-navbar .dropdown-menu .dropdown-item:hover {
+  background-color: #555;
+}
+
+.brand-icon-text {
+  display: flex;
+  align-items: center;
+}
+
+.brand-icon-text svg {
+  margin-right: 5px;
+}
+
+.Avatar {
+  margin-top: 60px;
+  margin-left: 60px;
+}
+
+.avatar-and-table {
+  display: flex;
+  align-items: center;
+  gap: 100px; 
+}
+
+.avatar-and-table .avatar {
+  flex-shrink: 0;
+}
+
+.avatar-and-table .table-container {
+  flex-grow: 1;
+}
+
+.table-dark {
+  color: white;
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 30px;
+}
+
+.table-dark th, .table-dark td {
+  border: 0px solid white;
+  padding: 8px; 
+  text-align: left;
+}
+
+.table-dark th {
+  background-color: transparent;
+}
