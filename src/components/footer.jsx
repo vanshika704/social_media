@@ -10,7 +10,7 @@ const Footer = () => {
   borderRadius='full'
   boxSize='50px'
   src='https://bit.ly/dan-abramov'
-  alt='Dan Abramov'
+  alt='Dan Abramov'//dffdc
 />
                 <span className="company-name text-white">Hey Sam!!!</span>
             </div>
