@@ -14,10 +14,10 @@ Features Implemented
 
 
 # Steps to run :
-git clone https://github.com/vanshika704/social_media /n
-cd social_media /n 
-npm i /n
-npm run dev /n
+git clone https://github.com/vanshika704/social_media 
+cd social_media 
+npm i 
+npm run dev 
 (make sure you have vite extension installed in the vs code )
 
 
