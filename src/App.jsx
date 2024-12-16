@@ -2,7 +2,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './Home';
 import AddPost from './components/Addpost';
-
+// hshbishjbx
 import './index.css'; 
 import Profile from './components/Profile';
 
